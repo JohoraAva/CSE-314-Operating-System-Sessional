@@ -1,6 +1,6 @@
 # CSE-314-Operating-System-Sessional
 
-Welcome to the Operating System Sessional course repository for CSE-314. This repository contains course materials, code examples, assignments, and projects related to the study of security course.
+Welcome to the Operating System Sessional course repository for CSE-314. This repository contains course materials, code examples, assignments, and projects related to the study of OS course.
 
 This Course has six offlines, three onlines and a quiz also held.
 
