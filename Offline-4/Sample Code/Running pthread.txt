@@ -1,0 +1,2 @@
+sudo apt-get install libpthread-stubs0-dev
+g++ 1905123.cpp -lpthread
